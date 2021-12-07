@@ -16,4 +16,8 @@
         console.log('aaron was here!');
         bracketScores[i].style.display = "none";
     }
+    
+    
+    document.getElementsByClassName('bracket-popup-body');
+
 })();
