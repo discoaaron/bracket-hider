@@ -13,7 +13,7 @@
     'use strict';
     var bracketScores = document.getElementsByClassName('bracket-score');
     for (let i = 0; i < bracketScores.length; i += 1) {
-        console.log(bracketScores[i]);
+        console.log('aaron was here!');
         bracketScores[i].style.display = "none";
     }
 })();
