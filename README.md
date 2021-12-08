@@ -1,10 +1,13 @@
 # bracket-hider
 tampermonkey script to hide brackets on liquidpedia  
+Importantly we still show the VOD buttons!
 
 Install tamper monkey and copy and paste this script into a TamperMonkey Userscript. 
 
 Turns this
-![image](https://user-images.githubusercontent.com/4475215/145105120-5cfe8643-ed09-4541-b04e-7586f21e131e.png)
+![image](https://user-images.githubusercontent.com/4475215/145164402-021bcbde-19b1-479f-ba39-9c14ce9bc29e.png)
 
 into this
-![image](https://user-images.githubusercontent.com/4475215/145105131-dac9bea0-e171-4b77-9ed6-a7e4b38ef155.png)
+![image](https://user-images.githubusercontent.com/4475215/145164304-e7b435a9-a8d5-429c-9227-4e1f86162c7e.png)
+
+
