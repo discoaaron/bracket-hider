@@ -12,21 +12,21 @@
 (function() {
     'use strict';
     // hide bracket score
-    var bracketScores = document.getElementsByClassName('bracket-score');
+    var bracketScores = document.getElementsByClassName('brkts-opponent-score-inner');
     for (let i = 0; i < bracketScores.length; i += 1) {
         console.log('hiding bracket score');
         bracketScores[i].style.display = "none";
     }
 
     // hide bracket popup body
-    var bracketPopupBody = document.getElementsByClassName('bracket-popup-body');
+    var bracketPopupBody = document.getElementsByClassName('brkts-popup-body');
     for (let i = 0; i < bracketPopupBody.length; i += 1) {
         console.log('hiding bracket popup body');
         bracketPopupBody[i].style.display = "none";
     }
 
     // hide teams in the bracket to show when clicked
-    var teamBrackets = document.getElementsByClassName('team-template-team-bracket');
+    var teamBrackets = document.getElementsByClassName('brkts-popup-header-dev');
     for (let i = 0; i < teamBrackets.length; i += 1) {
         console.log('hiding team bracket');
         teamBrackets[i].style.display = "none";
